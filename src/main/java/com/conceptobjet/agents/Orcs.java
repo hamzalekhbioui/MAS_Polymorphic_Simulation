@@ -1,5 +1,4 @@
-package src.main.java.com.conceptobjet.agents;
+package com.conceptobjet.agents;
 
 public class Orcs {
-    
 }
