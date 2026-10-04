@@ -1,4 +1,4 @@
 package com.conceptobjet.agents;
 
-public class Orc {
+public class Orc extends LivingBeing {
 }

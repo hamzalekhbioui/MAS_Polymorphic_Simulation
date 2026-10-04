@@ -1,5 +1,5 @@
 package com.conceptobjet.agents;
 
-public class Elf {
+public class Elf extends LivingBeing {
 
 }

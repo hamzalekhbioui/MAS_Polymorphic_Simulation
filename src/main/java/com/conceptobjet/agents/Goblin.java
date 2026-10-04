@@ -1,4 +1,4 @@
 package com.conceptobjet.agents;
 
-public class Goblin {
+public class Goblin extends LivingBeing {
 }

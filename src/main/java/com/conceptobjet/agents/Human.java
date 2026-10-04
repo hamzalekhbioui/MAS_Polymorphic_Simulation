@@ -1,4 +1,4 @@
 package com.conceptobjet.agents;
 
-public class Human {
+public class Human extends LivingBeing {
 }
