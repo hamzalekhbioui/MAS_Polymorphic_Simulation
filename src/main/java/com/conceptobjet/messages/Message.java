@@ -1,5 +1,4 @@
-package src.main.java.com.conceptobjet.messages;
+package com.conceptobjet.messages;
 
 public class Message {
-    
 }
