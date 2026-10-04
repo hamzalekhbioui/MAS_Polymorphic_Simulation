@@ -1,5 +1,5 @@
 package com.conceptobjet.agents;
 
-public class Individual {
+public class LivingBeing {
     
 }
