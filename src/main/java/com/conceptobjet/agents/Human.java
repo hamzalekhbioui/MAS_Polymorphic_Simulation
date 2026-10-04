@@ -1,4 +1,4 @@
 package com.conceptobjet.agents;
 
-public class Goblins {
+public class Human {
 }

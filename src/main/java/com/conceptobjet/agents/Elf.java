@@ -1,5 +1,5 @@
 package com.conceptobjet.agents;
 
-public class Elves {
-    
+public class Elf {
+
 }
