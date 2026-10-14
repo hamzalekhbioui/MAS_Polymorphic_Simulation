@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bec3521-a8b8-4746-b94c-6888245e8633" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Agent_Contracts_&amp;_owned_state.drawio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/2.Agent_Contracts_&amp;_owned_state.drawio.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bad alliance: Orcs_&amp;_Goblins.drawio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/4.Bad alliance: Orcs_&amp;_Goblins.drawio.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Good alliance: Elves_&amp;_Humans.drawio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/3.Good alliance: Elves_&amp;_Humans.drawio.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_Overview.drawio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/1.Model_Overview.drawio.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation_Ownership_&amp;_scheduling.drawio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/5.Simulation_Ownership_&amp;_scheduling.drawio.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turn_execution_&amp;_Master_delivery.drawio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/6.Turn_execution_&amp;_Master_delivery.drawio.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="20" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hamzalekhbioui&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hamzalekhbioui/MAS_Polymorphic_Simulation.git&quot;,
+    &quot;accountId&quot;: &quot;37ddbed7-bb1b-41d4-9d8c-ed76e8bc9d46&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JoLDe1K81OopigLAzXyWYEMAYB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "uml__diagrams",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hamzal/Downloads/jetbrains-toolbox-3.8.1.88030.tar.gz",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bec3521-a8b8-4746-b94c-6888245e8633" name="Changes" comment="" />
+      <created>1790322355605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790322355605</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
